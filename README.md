@@ -205,6 +205,7 @@ my database
   
   ## Usage
 
+  [insomnia ecommerce.webm](https://github.com/iam3dski/e-commerce-back-end/assets/123909952/4d9dac1e-c5a1-4ce2-b84a-2ced1c04dde6)
 
  ## License 
  
